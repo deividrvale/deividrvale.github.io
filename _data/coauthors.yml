@@ -1,18 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kop":
+  - firstname: ["Cynthia"]
+    url: https://www.cs.ru.nl/~cynthiakop
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Nantes-Sobrinho":
+  - firstname: ["Daniele"]
+    url: https://dblp.org/pid/36/8280
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Ayala-Rincón":
+  - firstname: ["Mauricio", "Maurício"]
+    url: https://www.mat.unb.br/ayala/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Fernández":
+  - firstname: ["Maribel"]
+    url: https://nms.kcl.ac.uk/maribel.fernandez/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Weide":
+  - firstname: ["Niels", "Niels van der", "Niels v. d."]
+    url: https://nmvdw.github.io
