@@ -8,6 +8,11 @@ years: [2021, 2020, 2019]
 nav: true
 ---
 
+
+{% if site.last_updated %}
+I try my best to maintain this list updated. Last updated was on {{ "now" | date: '%B %d, %Y' }}.
+{% endif %}
+
 <div class="publications">
 
 {% for y in page.years %}
