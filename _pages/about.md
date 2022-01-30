@@ -8,6 +8,7 @@ profile:
   align: right
   image: profile.jpeg
   address: >
+    <p>Institute for Computing and Information Sciences</p>
     <p>Department of Software Science,</p>
     <p>Radboud University</p>
     <p>Nijmegen, NL</p>
@@ -18,12 +19,47 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+Welcome to my personal (hopefully professional) page, dear visitor!
+Please, sit tight, grab a cup of coffee (or tea, if you may), and enjoy your stay.
 
-I'm a PhD student at Radboud University Nijmegen.
+Currently, I'm a Ph.D. student at Radboud University Nijmegen.
+I work mainly in the intersection of Computer Science, Logic, and Mathematics.
+Roughly, people tend to call my field Theoretical Computer Science.
+Maybe for the lack of a better name? Who knows! 🧐
 
-## Research Interests
+## Research Interest
+
+I am somewhat involved or reading a lot about the following topics:
 
 * Higher-order rewriting
-* Nominal Equational Theories
+* Implicit complexity
+* Nominal Techniques
 * Structural Complexity
 * Type-2 complexity
+* Type-theoretical approach to complexity analysis
+* Foundations of functional programming
+
+## Main Research Projects
+
+At the moment I am working on three main research topics,
+which I shall briefly present (in somewhat chronological order) below.
+
+I started investigating nominal equational syntax and semantics
+as my master thesis research project (you can find it at the publications page).
+Mainly, I am concerned on reasoning about the syntax and semantics of
+solving negated equations inside the nominal techniques.
+<!-- TODO: Add a link to a project page for this project. -->
+This (ongoing) project have been producing interesting results and collaborations over the years.
+
+My main research inquiry, as it is the main topic of my Ph.D. research,
+is all about complexity analysis and higher-order rewriting.
+A term rewriting system is a model of computation
+where computations are modelled as step-by-step transformation
+on objects.
+In this context doing complexity theory basically means
+measuring how many steps are needed to perform some task.
+<!-- TODO: Write a blog post about rewriting as a model of computation. -->
+
+More recently, I have been involved in a project
+to apply rewriting techniques to the field of Type-2 Structural Complexity Theory.
+It is very new, so more updates on that will follow in the coming months.
