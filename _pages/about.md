@@ -41,7 +41,7 @@ I am somewhat involved or reading a lot about the following topics:
 
 ## Main Research Projects
 
-At the moment I am working on three main research topics,
+At the moment, I am working on three main research topics,
 which I shall briefly present (in somewhat chronological order) below.
 
 I started investigating nominal equational syntax and semantics
