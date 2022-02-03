@@ -45,21 +45,16 @@ At the moment I am working on three main research topics,
 which I shall briefly present (in somewhat chronological order) below.
 
 I started investigating nominal equational syntax and semantics
-as my master thesis research project (you can find it at the publications page).
-Mainly, I am concerned on reasoning about the syntax and semantics of
+as my master thesis research project (you can find it on the publications page).
+Mainly, I am concerned with reasoning about the syntax and semantics of
 solving negated equations inside the nominal techniques.
 <!-- TODO: Add a link to a project page for this project. -->
 This (ongoing) project have been producing interesting results and collaborations over the years.
 
-My main research inquiry, as it is the main topic of my Ph.D. research,
-is all about complexity analysis and higher-order rewriting.
-A term rewriting system is a model of computation
-where computations are modelled as step-by-step transformation
-on objects.
-In this context doing complexity theory basically means
-measuring how many steps are needed to perform some task.
+My principal research inquiry, which is the main topic of my Ph.D., focuses on complexity analysis and higher-order rewriting.
+A term rewriting system is a model of computation where computations are modeled as a step-by-step transformation on objects.
+In this context, studying complexity theory basically means measuring how many steps are needed to perform some task.
 <!-- TODO: Write a blog post about rewriting as a model of computation. -->
 
-More recently, I have been involved in a project
-to apply rewriting techniques to the field of Type-2 Structural Complexity Theory.
-It is very new, so more updates on that will follow in the coming months.
+More recently, I have been involved in a project to apply rewriting techniques to the field of Type-2 Structural Complexity Theory.
+It is very new, so more updates will follow in the coming months.
