@@ -9,8 +9,7 @@ last_name: Vale
 email: deividvale@cs.ru.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website Deivid Vale.
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text:
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📚 # the emoji used as the favicon
@@ -77,8 +76,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 # blog is disabled for now, I need at least one post
-blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: blog # your blog must have a name for it to show up in the nav bar
+blog_description: research, programming, and all that
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -86,7 +85,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: research-blog-3 # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
@@ -226,7 +225,7 @@ responsive_image:
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
 
-jekyll-diagrams:
+# jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
 
