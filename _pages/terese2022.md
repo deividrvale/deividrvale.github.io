@@ -8,19 +8,37 @@ display_categories: [work]
 horizontal: true
 ---
 
-The Term Rewriting Seminar (TeReSe) 2022
-will take place as a hybrid event
+The Term Rewriting Seminar (TeReSe) 2022 is an event by the Dutch (and nearby)
+term rewriting community.
+This typically takes the form of an afternoon with presentations from each of the represented universities,
+with room for discussions during a joined dinner.
+
+This year's seminar will be in honor of Hans Zantema, and it will be held in Nijmegen.
+The event will take place as a hybrid event (zoom link will be made available shortly).
+
+---
 
 ## Event date
 
-Wednesday, June 8th, 2022
+Wednesday, June 8th, 2022<br/>
+13:00-17:30
+
+---
 
 ## Program
 
-| Column 1 Header | Column 2 Header |
-| Row 1 Column 1 | Row 1 Column 2 |
-| Row 2 Column 1 | Row 2 Column 2 |
-| Row 3 Column 1 | Row 3 Column 2 |
+| **12: 45 - 13:00** | Arrival |
+| **13:00 - 13:20**  | A brief history of the TeReSe Seminar,|
+| | by Hans Zantema (TU Eindhoven). |
+| **13:20 - 13:50** | Analyzing Expected Runtimes of Probabilistic Integer Programs using Expected Sizes, |
+| | by Fabian Meyer (). |
+| **14:20 - 14:30** | Coffee Break |
+| **14:30 - 15:00** | Talk 3, |
+| | by P3 (). |
+| **15:00 - 15:30** | Talk 4, |
+| | by P4 (). |
+| **15:30 - 15:40** | Coffee Break|
+| **15:40 - 16:10** | Talk 5, |
 
 Afterwards there will be a joined TeReSe dinner
 for those willing to come.
@@ -28,11 +46,11 @@ The dinner will take place
 at Romagna, an Italian restaurant
 approximately half an hour from the university (or 15min by bus).
 
+---
+
 ## Location
 
-
-
-Dept. Software Science <br/>
+Department of Software Science <br/>
 Institute for Computing and Information Sciences <br/>
 Faculty of Science <br/>
 Mercator 1 Building, Room 0.02<br/>
