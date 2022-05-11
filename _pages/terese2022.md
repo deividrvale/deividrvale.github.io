@@ -27,11 +27,14 @@ Wednesday, June 8th, 2022<br/>
 
 ## Program
 
-| **12: 45 - 13:00** | Arrival |
+<iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FAmsterdam&mode=AGENDA&src=YWNhYmFxOG50aHEyNmlzcm1qbHBrdDJrb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border:solid 1px #777" width="800" height="450" frameborder="0" scrolling="no"></iframe>
+
+<!-- | **12: 45 - 13:00** | Arrival |
 | **13:00 - 13:20**  | A brief history of the TeReSe Seminar,|
 | | by Hans Zantema (TU Eindhoven). |
 | **13:20 - 13:50** | Analyzing Expected Runtimes of Probabilistic Integer Programs using Expected Sizes, |
 | | by Fabian Meyer (). |
+| **13:50 - 14:20** | Talk 2 |
 | **14:20 - 14:30** | Coffee Break |
 | **14:30 - 15:00** | Talk 3, |
 | | by P3 (). |
@@ -39,12 +42,16 @@ Wednesday, June 8th, 2022<br/>
 | | by P4 (). |
 | **15:30 - 15:40** | Coffee Break|
 | **15:40 - 16:10** | Talk 5, |
+| | by P5 (). |
+| **16:10 - 16:40** | Talk 6, |
+| | by P6 (). | -->
 
-Afterwards there will be a joined TeReSe dinner
+
+Afterwards there will be a joint TeReSe dinner
 for those willing to come.
 The dinner will take place
 at Romagna, an Italian restaurant
-approximately half an hour from the university (or 15min by bus).
+approximately half an hour walking from the university (or 15min by public transport).
 
 ---
 
