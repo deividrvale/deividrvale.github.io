@@ -14,7 +14,7 @@ This typically takes the form of an afternoon with presentations from each of th
 with room for discussions during a joint dinner.
 
 This year's seminar will be in honor of Hans Zantema, and it will be held in Nijmegen.
-The event will take place as a hybrid event (zoom link will be made available shortly).
+The event will take place as a hybrid event (zoom link will be available soon).
 
 ---
 
@@ -61,21 +61,21 @@ approximately half an hour walking from the university (or 15min by public trans
 
 **Abstract:**
 
-    Personally I was involved in TeReSe in several flavors:
-    since 1990 as a seminar at the VU, in being author of the TeReSe book,
-    and in the national TeReSe meetings we had after the appearance of this book.
-    In this short talk an overview of this history will be given.
+Personally I was involved in TeReSe in several flavors:
+since 1990 as a seminar at the VU, in being author of the TeReSe book,
+and in the national TeReSe meetings we had after the appearance of this book.
+In this short talk an overview of this history will be given.
 
 **Title:** Analyzing Expected Runtimes of Probabilistic Integer Programs using Expected Sizes, by Fabian Meyer (RWTH Aachen University) <br/>
 
 **Abstract:**
 
-    We present a novel modular approach to infer upper bounds on the
-    expected runtimes of probabilistic integer programs fully automatically.
-    To this end, it computes bounds on the expected runtimes of program
-    parts and on the sizes of their variables in an alternating way. To
-    evaluate its power, we implemented our approach in a version of our
-    open-source tool KoAT.
+We present a novel modular approach to infer upper bounds on the
+expected runtimes of probabilistic integer programs fully automatically.
+To this end, it computes bounds on the expected runtimes of program
+parts and on the sizes of their variables in an alternating way. To
+evaluate its power, we implemented our approach in a version of our
+open-source tool KoAT.
 
 **Title:** Hydra Battles and AC Termination, by Aart Middeldorp (University of Innsbruck)
 
@@ -87,9 +87,9 @@ approximately half an hour walking from the university (or 15min by public trans
 
 **Abstract:**
 
-    PBPO+ is a categorical graph rewriting formalism.
-    I will give a short introduction to PBPO+, tailored for a general audience.
-    I then discuss our ongoing work on developing a tiling-based termination method.
+PBPO+ is a categorical graph rewriting formalism.
+I will give a short introduction to PBPO+, tailored for a general audience.
+I then discuss our ongoing work on developing a tiling-based termination method.
 
 **Title:** A Rewriting Characterization of Higher-Order Feasibility via Tuple Interpretations, by Deivid Vale (Radboud University)
 
@@ -101,41 +101,41 @@ approximately half an hour walking from the university (or 15min by public trans
 
 **Abstract:**
 
-    We revisit parallel-innermost term rewriting as a model of parallel computation
-    on inductive data structures and provide a corresponding notion of runtime complexity
-    parametric in the size of the start term.
-    We propose automatic techniques to derive both upper and lower
-    bounds on parallel complexity of rewriting that enable a
-    direct reuse of existing techniques for sequential complexity.
-    The applicability and the precision of the method are demonstrated by the relatively
-    light effort in extending the program analysis tool AProVE and
-    by experiments on numerous benchmarks from the literature.
+We revisit parallel-innermost term rewriting as a model of parallel computation
+on inductive data structures and provide a corresponding notion of runtime complexity
+parametric in the size of the start term.
+We propose automatic techniques to derive both upper and lower
+bounds on parallel complexity of rewriting that enable a
+direct reuse of existing techniques for sequential complexity.
+The applicability and the precision of the method are demonstrated by the relatively
+light effort in extending the program analysis tool AProVE and
+by experiments on numerous benchmarks from the literature.
 
 **Title:** The paint pot problem and common multiples in monoids, by Hans Zantema (TU Eindhoven)
 
 **Abstract:**
 
-    On a finite sequence of paint pots the following steps are allowed:
+On a finite sequence of paint pots the following steps are allowed:
 
-    1. Swap two consecutive non-empty pots.
-    2. If the two neighbours of a non-empty pot are empty,
-    then divide the paint in the middle pot over the two neighbours,
-    after which these neighbours will be non-empty and the middle one will be empty.
-    Also, the reverse is allowed: if an empty pot has two neighbours of the same color,
-    the paint of these neighbours may be put in the middle pot.
+1. Swap two consecutive non-empty pots.
 
-    Is it possible to start by a sequence in which the first four pots
-    contain paint in four different colors, and get the first pot empty?
+2. If the two neighbours of a non-empty pot are empty,
+then divide the paint in the middle pot over the two neighbours,
+after which these neighbours will be non-empty and the middle one will be empty.
+Also, the reverse is allowed: if an empty pot has two neighbours of the same color,
+the paint of these neighbours may be put in the middle pot.
 
-    We will solve this remarkably hard problem by a remarkably simple solution,
-    and show its relation with monoid theory, and give generalizations of this problem,
-    partly solving an open problem presented by Jan Willem Klop.
-    After submitting this work it turned out that our results also
-    follow from an old result from Coxeter on group theory.
-    The problems can be seen as confluence problems.
-    Our solutions make use of rewriting,
-    and are generalizations of the rewriting approach to braids.
+Is it possible to start by a sequence in which the first four pots
+contain paint in four different colors, and get the first pot empty?
 
+We will solve this remarkably hard problem by a remarkably simple solution,
+and show its relation with monoid theory, and give generalizations of this problem,
+partly solving an open problem presented by Jan Willem Klop.
+After submitting this work it turned out that our results also
+follow from an old result from Coxeter on group theory.
+The problems can be seen as confluence problems.
+Our solutions make use of rewriting,
+and are generalizations of the rewriting approach to braids.
 ---
 
 ## Location
