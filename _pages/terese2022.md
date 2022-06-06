@@ -8,20 +8,22 @@ display_categories: [work]
 horizontal: true
 ---
 
-The Term Rewriting Seminar (TeReSe) 2022 is an event by the Dutch (and nearby)
-term rewriting community.
+The Term Rewriting Seminar (TeReSe) 2022 is an event by the Dutch (and nearby) term rewriting community.
 This typically takes the form of an afternoon with presentations from each of the represented universities,
 with room for discussions during a joint dinner.
 
-This year's seminar will be in honor of Hans Zantema, and it will be held in Nijmegen.
-The event will take place as a hybrid event (zoom link will be available soon).
+This year's seminar will be in honor of Hans Zantema and will be held in Nijmegen.
+The event will take place as a hybrid event.
+
+Zoom link information:
+<https://radbouduniversity.zoom.us/j/87577431727?pwd=K01hMzZaMDBLMkN0V1dveGtWS3k3QT09>
 
 ---
 
 ## Event date
 
 Wednesday, June 8th, 2022<br/>
-13:00-17:30
+13:00-17:30, CEST (GMT/UTC +2)
 
 ---
 
@@ -81,7 +83,8 @@ open-source tool KoAT.
 
 **Abstract:**
 
-    TBA
+We encode the Battle of Hercules and Hydra as a rewrite system with AC symbols.
+Its termination is proved by a new termination criterion for AC rewriting.
 
 **Title:** Termination by Tiling with PBPO+ by Roy Overbeek (VU Amsterdam)
 
@@ -95,7 +98,12 @@ I then discuss our ongoing work on developing a tiling-based termination method.
 
 **Abstract:**
 
-    TBA
+We present an initial rewriting characterization of higher-order feasibility utilizing tuple interpretations.
+This program fits nice in the implicit complexity field,
+where implicit characterizations of complexity classes is studied.
+We show how tuple interpretations can be used to capture higher-order feasible functions,
+that is, the class of basic feasible functionals, using the ability to split higher-order cost
+information into size and cost components.
 
 **Title:** Automatic Analysis of Runtime Complexity for Parallel-Innermost Term Rewriting, by Carsten Fuhs (Birkbeck, University of London)
 
@@ -110,6 +118,19 @@ direct reuse of existing techniques for sequential complexity.
 The applicability and the precision of the method are demonstrated by the relatively
 light effort in extending the program analysis tool AProVE and
 by experiments on numerous benchmarks from the literature.
+
+**Title:** Inclusion/Exclusion Revisited
+
+**Abstract**
+The inclusion/exclusion principle (IE) for sets is a centuries old,
+simple but fundamental counting technique in combinatorics.
+Observing the IE for sets is a consequence of the IE for multisets, we
+show a (partial, natural) version of the IE holds for commutative residual
+algebras (CRAs) proposed by us in 2003 as multiset algebras.
+This covers (afawk) extant generalisations of the IE and gives a novel
+instance of IE for measurable multisets. CRAs embed into lattice
+ordered groups, which allows to regain the original (total, integer)
+IE for sets as a consequence of the IE for signed multisets.
 
 **Title:** The paint pot problem and common multiples in monoids, by Hans Zantema (TU Eindhoven)
 
