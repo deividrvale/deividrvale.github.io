@@ -119,7 +119,7 @@ The applicability and the precision of the method are demonstrated by the relati
 light effort in extending the program analysis tool AProVE and
 by experiments on numerous benchmarks from the literature.
 
-**Title:** Inclusion/Exclusion Revisited
+**Title:** Inclusion/Exclusion Revisited, by Vincent van Oostrom (University of Bath)
 
 **Abstract**
 The inclusion/exclusion principle (IE) for sets is a centuries old,
