@@ -170,3 +170,9 @@ Toernooiveld 212 <br/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2465.956971184518!2d5.866594351577225!3d51.82521649513659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c709c2815abbb9%3A0xdc8f6827ab62b0ea!2sMercator%201!5e0!3m2!1sen!2snl!4v1652193421053!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
+
+## Dinner Location
+
+Betouwstraat 6, 6511 GC Nijmegen <br/>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2464.9568326062017!2d5.858482251535611!3d51.84348409379506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7085cc9a96639%3A0x40c56045ed5702e7!2sRomagna!5e0!3m2!1sen!2snl!4v1654607800502!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
