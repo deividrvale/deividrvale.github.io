@@ -96,6 +96,8 @@ I then discuss our ongoing work on developing a tiling-based termination method.
 
 **Title:** A Rewriting Characterization of Higher-Order Feasibility via Tuple Interpretations, by Deivid Vale (Radboud University)
 
+**Slides:** <a href="/assets/pdf/terese2022/slides_deivid.pdf">download </a>
+
 **Abstract:**
 
 We present an initial rewriting characterization of higher-order feasibility utilizing tuple interpretations.
@@ -106,6 +108,8 @@ that is, the class of basic feasible functionals, using the ability to split hig
 information into size and cost components.
 
 **Title:** Automatic Analysis of Runtime Complexity for Parallel-Innermost Term Rewriting, by Carsten Fuhs (Birkbeck, University of London)
+
+**Slides:** <a href="/assets/pdf/terese2022/slides_carsten.pdf">download </a>
 
 **Abstract:**
 
