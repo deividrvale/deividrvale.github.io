@@ -121,6 +121,8 @@ by experiments on numerous benchmarks from the literature.
 
 **Title:** Inclusion/Exclusion Revisited, by Vincent van Oostrom (University of Bath)
 
+**Slides:** <a href="/assets/pdf/terese2022/slides_vincent.pdf">download </a>
+
 **Abstract**
 The inclusion/exclusion principle (IE) for sets is a centuries old,
 simple but fundamental counting technique in combinatorics.
