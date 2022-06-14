@@ -61,12 +61,16 @@ approximately half an hour walking from the university (or 15min by public trans
 
 **Title:** A Brief History of the Terese Seminar, by Hans Zantema (TU Eindhoven)
 
+**Slides:** <a href="/assets/pdf/terese2022/slides_hans_terese_history.pdf">download</a>
+
 **Abstract:**
 
 Personally I was involved in TeReSe in several flavors:
 since 1990 as a seminar at the VU, in being author of the TeReSe book,
 and in the national TeReSe meetings we had after the appearance of this book.
 In this short talk an overview of this history will be given.
+
+---
 
 **Title:** Analyzing Expected Runtimes of Probabilistic Integer Programs using Expected Sizes, by Fabian Meyer (RWTH Aachen University) <br/>
 
@@ -79,14 +83,22 @@ parts and on the sizes of their variables in an alternating way. To
 evaluate its power, we implemented our approach in a version of our
 open-source tool KoAT.
 
+---
+
 **Title:** Hydra Battles and AC Termination, by Aart Middeldorp (University of Innsbruck)
+
+**Slides:** <a href="/assets/pdf/terese2022/slides_aart.pdf">download</a>
 
 **Abstract:**
 
 We encode the Battle of Hercules and Hydra as a rewrite system with AC symbols.
 Its termination is proved by a new termination criterion for AC rewriting.
 
+---
+
 **Title:** Termination by Tiling with PBPO+ by Roy Overbeek (VU Amsterdam)
+
+**Slides:** <a href="/assets/pdf/terese2022/slides_overbeek.pdf">download</a>
 
 **Abstract:**
 
@@ -94,9 +106,11 @@ PBPO+ is a categorical graph rewriting formalism.
 I will give a short introduction to PBPO+, tailored for a general audience.
 I then discuss our ongoing work on developing a tiling-based termination method.
 
+---
+
 **Title:** A Rewriting Characterization of Higher-Order Feasibility via Tuple Interpretations, by Deivid Vale (Radboud University)
 
-**Slides:** <a href="/assets/pdf/terese2022/slides_deivid.pdf">download </a>
+**Slides:** <a href="/assets/pdf/terese2022/slides_deivid.pdf">download</a>
 
 **Abstract:**
 
@@ -107,9 +121,11 @@ We show how tuple interpretations can be used to capture higher-order feasible f
 that is, the class of basic feasible functionals, using the ability to split higher-order cost
 information into size and cost components.
 
+---
+
 **Title:** Automatic Analysis of Runtime Complexity for Parallel-Innermost Term Rewriting, by Carsten Fuhs (Birkbeck, University of London)
 
-**Slides:** <a href="/assets/pdf/terese2022/slides_carsten.pdf">download </a>
+**Slides:** <a href="/assets/pdf/terese2022/slides_carsten.pdf">download</a>
 
 **Abstract:**
 
@@ -123,9 +139,11 @@ The applicability and the precision of the method are demonstrated by the relati
 light effort in extending the program analysis tool AProVE and
 by experiments on numerous benchmarks from the literature.
 
+---
+
 **Title:** Inclusion/Exclusion Revisited, by Vincent van Oostrom (University of Bath)
 
-**Slides:** <a href="/assets/pdf/terese2022/slides_vincent.pdf">download </a>
+**Slides:** <a href="/assets/pdf/terese2022/slides_vincent.pdf">download</a>
 
 **Abstract**
 The inclusion/exclusion principle (IE) for sets is a centuries old,
@@ -138,7 +156,11 @@ instance of IE for measurable multisets. CRAs embed into lattice
 ordered groups, which allows to regain the original (total, integer)
 IE for sets as a consequence of the IE for signed multisets.
 
+---
+
 **Title:** The paint pot problem and common multiples in monoids, by Hans Zantema (TU Eindhoven)
+
+**Slides:** <a href="/assets/pdf/terese2022/slides_hans.pdf">download</a>
 
 **Abstract:**
 
@@ -163,7 +185,6 @@ follow from an old result from Coxeter on group theory.
 The problems can be seen as confluence problems.
 Our solutions make use of rewriting,
 and are generalizations of the rewriting approach to braids.
----
 
 ## Location
 
