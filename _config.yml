@@ -76,7 +76,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 # blog is disabled for now, I need at least one post
-blog_name: blog # your blog must have a name for it to show up in the nav bar
+blog_name: #blog # your blog must have a name for it to show up in the nav bar
 blog_description: research, programming, and all that
 permalink: /blog/:year/:title/
 

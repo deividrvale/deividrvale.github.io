@@ -15,8 +15,8 @@ with room for discussions during a joint dinner.
 This year's seminar will be in honor of Hans Zantema and will be held in Nijmegen.
 The event will take place as a hybrid event.
 
-Zoom link information:
-<https://radbouduniversity.zoom.us/j/87577431727?pwd=K01hMzZaMDBLMkN0V1dveGtWS3k3QT09>
+<!-- Zoom link information: -->
+<!-- <https://radbouduniversity.zoom.us/j/87577431727?pwd=K01hMzZaMDBLMkN0V1dveGtWS3k3QT09> -->
 
 ---
 
@@ -27,9 +27,9 @@ Wednesday, June 8th, 2022<br/>
 
 ---
 
-## Program
+<!-- ## Program
 
-<iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FAmsterdam&mode=AGENDA&src=YWNhYmFxOG50aHEyNmlzcm1qbHBrdDJrb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border:solid 1px #777" width="800" height="450" frameborder="0" scrolling="no"></iframe>
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=450&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FAmsterdam&mode=AGENDA&src=YWNhYmFxOG50aHEyNmlzcm1qbHBrdDJrb2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border:solid 1px #777" width="800" height="450" frameborder="0" scrolling="no"></iframe> -->
 
 <!-- | **12: 45 - 13:00** | Arrival |
 | **13:00 - 13:20**  | A brief history of the TeReSe Seminar,|
@@ -49,13 +49,13 @@ Wednesday, June 8th, 2022<br/>
 | | by P6 (). | -->
 
 
-Afterwards there will be a joint TeReSe dinner
+<!-- Afterwards there will be a joint TeReSe dinner
 for those willing to come.
 The dinner will take place
-at Romagna, an Italian restaurant
-approximately half an hour walking from the university (or 15min by public transport).
+at Romagna, an Italian restaurant -->
+<!-- approximately half an hour walking from the university (or 15min by public transport). -->
 
----
+<!-- --- -->
 
 ## Abstract of Talks
 
