@@ -2,8 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of course I've been working on over the years.
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
+nav_order: 5
 ---
 
 I have experience teaching both mathematics and computer science courses.
