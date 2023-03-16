@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (λxλy. x @ y) deividvale cs.ru.nl
+subtitle: (λxyz. xyz) deividvale (at) cs.ru.nl
 
 profile:
   align: right
@@ -19,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal (hopefully professional) page, dear visitor!
-Please, sit tight, grab a cup of coffee (or tea, if you may), and enjoy your stay.
+Welcome to my personal page.
+Please, sit tight, grab a cup of coffee (or tea, if you may),
+and enjoy your stay.
 
 Currently, I'm a Ph.D. student at Radboud University Nijmegen.
 I work mainly in the intersection of Computer Science, Logic, and Mathematics.
@@ -38,6 +39,7 @@ I am somewhat involved or reading a lot about the following topics:
 * Type-2 complexity
 * Type-theoretical approach to complexity analysis
 * Foundations of functional programming
+* Formalization of mathematical structures (like rewriting) in Coq
 
 ## Main Research Projects
 

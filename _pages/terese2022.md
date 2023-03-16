@@ -6,6 +6,7 @@ description: >
 nav: true
 display_categories: [work]
 horizontal: true
+nav_order: 6
 ---
 
 The Term Rewriting Seminar (TeReSe) 2022 is an event by the Dutch (and nearby) term rewriting community.

@@ -1,3 +1,18 @@
+---
+---
+@misc{https://doi.org/10.48550/arxiv.2302.11892,
+  abbr      = {pre-print},
+  url       = {https://arxiv.org/abs/2302.11892},
+  author    = {van der Weide, Niels and Vale, Deivid and Kop, Cynthia},
+  keywords  = {Logic in Computer Science (cs.LO), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title     = {Certifying Higher-Order Polynomial Interpretations},
+  publisher = {arXiv},
+  year      = {2023},
+  arxiv     = {2302.11892},
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International},
+  code      = {https://github.com/deividrvale/nijn-coq-script-generation}
+}
+
 @inproceedings{wst2022,
   abbr      = {short},
   author    = {Kop, Cynthia and Vale, Deivid},
@@ -59,11 +74,9 @@
   timestamp  = {Tue, 14 Dec 2021 14:21:31 +0100},
   biburl     = {https://dblp.org/rec/journals/corr/abs-2112-05715.bib},
   bibsource  = {dblp computer science bibliography, https://dblp.org},
-  website    = {https://github.com/nmvdw/Nijn},
-  abstract   = {We describe a formalization of higher-order rewriting theory and formally prove that an AFS is strongly normalizing if it can be interpreted in a well-founded domain. To do so, we use Coq, which is a proof assistant based on dependent type theory. Using this formalization, one can implement several termination techniques, like the interpretation method or dependency pairs, and prove their correctness. Those implementations can then be extracted to OCaml, which results in a verified termination checker.
-                }
+  code       = {https://github.com/nmvdw/Nijn},
+  abstract   = {We describe a formalization of higher-order rewriting theory and formally prove that an AFS is strongly normalizing if it can be interpreted in a well-founded domain. To do so, we use Coq, which is a proof assistant based on dependent type theory. Using this formalization, one can implement several termination techniques, like the interpretation method or dependency pairs, and prove their correctness. Those implementations can then be extracted to OCaml, which results in a verified termination checker.}
 }
-
 
 @inproceedings{10.1007/978-3-030-71995-1_2,
   abbr      = {conf},
@@ -110,36 +123,43 @@
   pdf       = {unif_2020.pdf},
   abstract  = {This workshop paper presents novel research ideas for a nominal treatment of nominal equational problems. We discuss some issues of such specification and give a first glimpse of a natural rule-based system to work with this problem. In a specific way, this extends what we have done before on disunification constraints by allowing explicit existential and universal quantification to unknowns.
                },
-  website   = {http://unif2020.org}
+  website   = {http://www3.risc.jku.at/publications/download/risc_6129/proceedings-UNIF2020.pdf}
 }
 
-@article{AYALARINCON20203,
-  abbr     = {conf},
-  title    = {On Solving Nominal Disunification Constraints},
-  journal  = {Electronic Notes in Theoretical Computer Science},
-  volume   = {348},
-  pages    = {3-22},
-  month    = {March},
-  year     = {2020},
-  issn     = {1571-0661},
-  doi      = {10.1016/j.entcs.2020.02.002},
-  url      = {https://www.sciencedirect.com/science/article/pii/S1571066120300025},
-  author   = {Mauricio Ayala-Rincón and Maribel Fernández and Daniele Nantes-Sobrinho and Deivid Vale},
-  keywords = {Nominal Logic, Nominal Semantics, Unification, Disunification}
-}
-
-@mastersthesis{deivid:2019,
-  abbr        = {master thesis},
-  author      = {Deivid Vale},
-  school      = {University of Brasilia},
-  title       = {On Solving Nominal Disunification Problems},
-  month       = {Defended on August},
+@inproceedings{ayala:fernandez:nantes:vale:19,
+  abbr        = {conf},
+  author      = {Mauricio Ayala{-}Rinc{\'{o}}n and
+                 Maribel Fern{\'{a}}ndez and
+                 Daniele Nantes{-}Sobrinho and
+                 Deivid Vale},
+  editor      = {Amy P. Felty and
+                 Jo{\~{a}}o Marcos},
+  title       = {On Solving Nominal Disunification Constraints},
+  booktitle   = {Proc.\ {LSFA'19}},
+  series      = {Electronic Notes in Theoretical Computer Science},
+  volume      = {348},
+  pages       = {3--22},
+  publisher   = {Elsevier},
   year        = {2019},
-  abstract    = {
-                 My master thesis's research was all about solving nominal disunification problems.
-                 The nominal setting is a very nice formalism to deal with alpha-equivalence.
-                 It's also very usefull to deal with name-scoping in programming languages and to have a formal proof that under suitable context assumptions I can call all my friends by just 'José' :)
-                 },
-  pdf         = {master_thesis.pdf},
+  url         = {https://doi.org/10.1016/j.entcs.2020.02.002},
+  doi         = {10.1016/j.entcs.2020.02.002},
+  timestamp   = {Tue, 16 Aug 2022 23:04:31 +0200},
+  biburl      = {https://dblp.org/rec/conf/lsfa/Ayala-RinconFNV20.bib},
+  bibsource   = {dblp computer science bibliography, https://dblp.org},
   bibtex_show = true
+}
+
+% 2019
+@mastersthesis{deivid:2019,
+  abbr     = {master thesis},
+  author   = {Deivid Vale},
+  school   = {University of Brasilia},
+  title    = {On Solving Nominal Disunification Problems},
+  month    = {Defended on August},
+  year     = {2019},
+  abstract = {My master thesis's research was all about solving nominal disunification problems.
+              The nominal setting is a very nice formalism to deal with alpha-equivalence.
+              It's also very usefull to deal with name-scoping in programming languages and to have a formal proof that under suitable context assumptions I can call all my friends by just 'José' :)
+              },
+  pdf      = {master_thesis.pdf}
 }
