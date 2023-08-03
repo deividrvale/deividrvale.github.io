@@ -1,6 +1,29 @@
 ---
 ---
 
+@InProceedings{weide:vale:kop:23,
+  abbr = {conf},
+  author =	{van der Weide, Niels and Vale, Deivid and Kop, Cynthia},
+  title =	{{Certifying Higher-Order Polynomial Interpretations}},
+  booktitle =	{14th International Conference on Interactive Theorem Proving},
+  pages =	{30:1--30:20},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  year =	{2023},
+  volume =	{268},
+  editor =	{Naumowicz, Adam and Thiemann, Ren\'{e}},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL = {https://drops.dagstuhl.de/opus/volltexte/2023/18405},
+  URN = {urn:nbn:de:0030-drops-184051},
+  doi = {10.4230/LIPIcs.ITP.2023.30},
+  annote = {Keywords: higher-order rewriting, Coq, termination, formalization},
+  arxiv = {2302.11892},
+  code = {https://github.com/deividrvale/nijn-coq-script-generation},
+  selected = true,
+  bibtex_show = true,
+}
+
+
 @InProceedings{kop_et_al:LIPIcs.FSCD.2023.15,
   abbr = {conf},
   author =  {Kop, Cynthia and Vale, Deivid},
@@ -23,19 +46,25 @@
 }
 
 
-@article{DBLP:journals/corr/abs-2303-13256,
-  abbr         = {conf},
-  author       = {Liye Guo and Deivid Vale},
+@inproceedings{DBLP:journals/corr/abs-2303-13256,
+  abbr = {conf},
+  author       = {Liye Guo and
+                  Deivid Vale},
+  editor       = {Daniele Nantes{-}Sobrinho and
+                  Pascal Fontaine},
   title        = {Analyzing Innermost Runtime Complexity Through Tuple Interpretations},
-  journal      = {In Proc.\ LSFA},
-  volume       = {abs/2303.13256},
-  year         = {2023},
-  url          = {https://doi.org/10.48550/arXiv.2303.13256},
-  doi          = {https://doi.org/10.4204/EPTCS.376.5},
-  eprinttype    = {arXiv},
-  eprint       = {2303.13256},
-  timestamp    = {Thu, 13 Apr 2023 17:40:16 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2303-13256.bib}
+  booktitle    = {Proceedings 17th International Workshop on Logical and Semantic Frameworks
+                  with Applications, {LSFA} 2022, Belo Horizonte, Brazil (hybrid), 23-24
+                  September 2022},
+  series       = {{EPTCS}},
+  volume       = {376},
+  pages        = {34--48},
+  year         = {2022},
+  url          = {https://doi.org/10.4204/EPTCS.376.5},
+  doi          = {10.4204/EPTCS.376.5},
+  timestamp    = {Mon, 26 Jun 2023 20:50:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2303-13256.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 @inproceedings{hor_2023,
@@ -47,22 +76,6 @@
   year      = {2023},
   pdf       = {hor_2023.pdf},
   slides    = {hor_2023_slides.pdf}
-}
-
-
-
-@misc{https://doi.org/10.48550/arxiv.2302.11892,
-  abbr      = {pre-print},
-  url       = {https://arxiv.org/abs/2302.11892},
-  author    = {Weide, Niels van der and Vale, Deivid and Kop, Cynthia},
-  keywords  = {Logic in Computer Science (cs.LO), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title     = {Certifying Higher-Order Polynomial Interpretations},
-  publisher = {arXiv},
-  year      = {2023},
-  arxiv     = {2302.11892},
-  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International},
-  code      = {https://github.com/deividrvale/nijn-coq-script-generation},
-  selected = true
 }
 
 @inproceedings{wst2022,
@@ -77,6 +90,26 @@
 }
 
 
+% 2021
+
+@inproceedings{10.1007/978-3-030-71995-1_2,
+  abbr      = {conf},
+  author    = {Ayala-Rinc{\'o}n, Mauricio
+               and Fern{\'a}ndez, Maribel
+               and Nantes-Sobrinho, Daniele
+               and Vale, Deivid},
+  editor    = {Kiefer, Stefan
+               and Tasson, Christine},
+  title     = {Nominal Equational Problems},
+  booktitle = {Foundations of Software Science and Computation Structures},
+  year      = {2021},
+  month     = {March},
+  publisher = {Springer International Publishing},
+  address   = {Cham},
+  pages     = {22--41},
+  doi       = {10.1007/978-3-030-71995-1_2},
+  selected  = true
+}
 
 @inproceedings{kop_et_al:LIPIcs.FSCD.2021.31,
   abbr      = {conf},
@@ -131,24 +164,7 @@
   abstract   = {We describe a formalization of higher-order rewriting theory and formally prove that an AFS is strongly normalizing if it can be interpreted in a well-founded domain. To do so, we use Coq, which is a proof assistant based on dependent type theory. Using this formalization, one can implement several termination techniques, like the interpretation method or dependency pairs, and prove their correctness. Those implementations can then be extracted to OCaml, which results in a verified termination checker.}
 }
 
-@inproceedings{10.1007/978-3-030-71995-1_2,
-  abbr      = {conf},
-  author    = {Ayala-Rinc{\'o}n, Mauricio
-               and Fern{\'a}ndez, Maribel
-               and Nantes-Sobrinho, Daniele
-               and Vale, Deivid},
-  editor    = {Kiefer, Stefan
-               and Tasson, Christine},
-  title     = {Nominal Equational Problems},
-  booktitle = {Foundations of Software Science and Computation Structures},
-  year      = {2021},
-  month     = {March},
-  publisher = {Springer International Publishing},
-  address   = {Cham},
-  pages     = {22--41},
-  doi       = {10.1007/978-3-030-71995-1_2},
-  selected  = true
-}
+% 2020
 
 @inproceedings{llc2020,
   abbr      = {short},
@@ -179,6 +195,7 @@
   website   = {http://www3.risc.jku.at/publications/download/risc_6129/proceedings-UNIF2020.pdf}
 }
 
+% 2019 -------------------------------------------------------------------------
 @inproceedings{ayala:fernandez:nantes:vale:19,
   abbr        = {conf},
   author      = {Mauricio Ayala{-}Rinc{\'{o}}n and
@@ -188,7 +205,7 @@
   editor      = {Amy P. Felty and
                  Jo{\~{a}}o Marcos},
   title       = {On Solving Nominal Disunification Constraints},
-  booktitle   = {Proc.\ {LSFA'19}},
+  booktitle   = {Proceedings of the 14th Workshop on Logical and Semantic Frameworks with Applications, {LSFA} 2019, Natal, Brazil},
   series      = {Electronic Notes in Theoretical Computer Science},
   volume      = {348},
   pages       = {3--22},
@@ -202,17 +219,16 @@
   bibtex_show = true
 }
 
-% 2019
+
 @mastersthesis{deivid:2019,
   abbr     = {master thesis},
   author   = {Deivid Vale},
   school   = {University of Brasilia},
-  title    = {On Solving Nominal Disunification Problems},
-  month    = {Defended on August},
+  title    = {Nominal Disunification},
+  month    = {Defended on July 26th},
   year     = {2019},
-  abstract = {My master thesis's research was all about solving nominal disunification problems.
-              The nominal setting is a very nice formalism to deal with alpha-equivalence.
-              It's also very usefull to deal with name-scoping in programming languages and to have a formal proof that under suitable context assumptions I can call all my friends by just 'José' :)
-              },
-  pdf      = {master_thesis.pdf}
+  abstract =
+  {My master thesis's research was all about solving nominal disunification problems. The nominal setting is a very nice formalism to deal with alpha-equivalence. It's also very usefull to deal with name-scoping in programming languages and to have a formal proof that under suitable context assumptions I can call all my friends by just 'José' :)},
+  pdf      = {master_thesis.pdf},
+  bibtex_show = true
 }
