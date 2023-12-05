@@ -23,13 +23,14 @@ Welcome to my personal page.
 Please, sit tight, grab a cup of coffee (or tea, if you may),
 and enjoy your stay.
 
-Currently, I'm a Ph.D. student at Radboud University Nijmegen.
-I work mainly in the intersection of Computer Science, Logic, and Mathematics.
-Roughly, people tend to call my field Theoretical Computer Science.
-Maybe for the lack of a better name? Who knows! 🧐
+I am a post-doc at the Department of Sofware Science, Radboud University Nijmegen,
+working under the
+NWO [CHORPE](https://www.cs.ru.nl/~cynthiakop/chorpe.html) project.
 
 ## Research Interest
 
+My research interests lie mainly in the intersection of
+Computer Science, Logic, and Mathematics.
 I am somewhat involved or reading a lot about the following topics:
 
 * Higher-order rewriting
