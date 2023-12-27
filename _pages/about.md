@@ -19,13 +19,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal page.
-Please, sit tight, grab a cup of coffee (or tea, if you may),
-and enjoy your stay.
-
-I am a post-doc at the Department of Sofware Science, Radboud University Nijmegen,
-working under the
+I am a post doctoral researcher at the Department of Sofware Science,
+Radboud University, working under the
 NWO [CHORPE](https://www.cs.ru.nl/~cynthiakop/chorpe.html) project.
+
+Recently,
+I was a PhD student also at Department of Sofware Science, Radboud University
+working under the NWO Top Project
+[ICHOR](https://www.cs.ru.nl/~cynthiakop/ichor.html).
+My PhD thesis entitled
+''On Semantical Methods for the Analysis of the Complexity of Higher-Order Rewriting''
+has been submitted and is currently under revision.
 
 ## Research Interest
 
