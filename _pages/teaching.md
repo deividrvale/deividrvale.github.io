@@ -7,6 +7,16 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have experience teaching both mathematics and computer science courses.
 
-Organize your courses by years, topics, or universities, however you like!
+* Computability Theory - TA - Radboud University Nijmegen, NL - 2019 --- 2023
+
+* Complexity Theory, TA - Radboud University Nijmegen, NL - 2020 --- 2023
+
+* Calcululus, Teacher - University of Brasilia, BR - 2018
+
+* Worked as undergrad TA on various courses such as
+Topology of Metric Spaces, Graph Theory,
+Multivariate Calculus,
+Set Theory,
+and Mathematical Logic - 2014 --- 2018
