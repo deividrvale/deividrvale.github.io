@@ -3,7 +3,7 @@ layout: page
 title: TeReSe 2022
 permalink: /terese2022/
 description: >
-nav: true
+nav: false
 display_categories: [work]
 horizontal: true
 nav_order: 6
