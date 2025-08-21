@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Journal paper accepted at the Logical Methods in Computer Science
+date: 2025-08-06 16:48:00-0000
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement.
+The paper **A Characterization of Basic Feasible Functionals Through Higher-Order Rewriting and Tuple Interpretations** --- which is a collaborative work with Ugo dal Lago, Patrick Baillot, and Cynthia Kop --- just got accepted at LMCS.
+
+A preprint of the paper is available at [arXiv.org:2401.12385](https://arxiv.org/abs/2401.12385v4).
