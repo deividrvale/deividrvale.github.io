@@ -36,7 +36,7 @@ in the NSF-funded project [Concurrency In Reversible Computations](https://www.n
 
 Recently, I worked as a post-doctoral researcher at the [Department of Sofware Science](https://sws.cs.ru.nl),
 Radboud University, working with [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html) in the [CHORPE](https://www.cs.ru.nl/~cynthiakop/chorpe.html) NWO project.
-My PhD thesis entitled ''On Semantical Methods for the Analysis of the Complexity of Higher-Order Rewriting''
+My PhD thesis entitled ''On Semantical Methods for Higher-Order Complexity Analysis''
 can be found at [https://repository.ubn.ru.nl/handle/2066/304473](https://repository.ubn.ru.nl/handle/2066/304473).
 
 ## Research
@@ -45,15 +45,22 @@ My research interests lie broadly on the intersection of Theoretical Computer Sc
 More specifically,
 I am currently investigating how we can combine notions of reversible computability and the λ-calculus.
 This ought to lead us to an interesting λ-calculae that we can use --- for instance --- for reasoning
-about program semantics, implicit computational complexity, and higher-order functions.
+about program semantics, implicit computational complexity, and higher-order functional programming.
 There will be a formalization of these results, which I plan to make publicly available in the near future.
 For more information on this project and the activities of our group, please check
 [https://github.com/CinRC](https://github.com/CinRC).
 
-In addition, I am somewhat involved or reading a lot about the following topics:
-* Higher-order rewriting
-* Implicit complexity
+In addition, I am somewhat involved in research projects or reading a lot about the following topics:
+* Higher-Order Rewriting
+  - complexity analysis
+  - interpretation methods
+  - termination
+* Implicit Complexity
+  - type-2 complexity
+  - type-theoretical approaches to implicit complexity analysis
 * Nominal Techniques
-* Type-2 complexity
-* Type-theoretical approaches to complexity analysis
+  - nominal syntax
+  - nominal unification/disunification
 * Formalization of mathematical structures (like rewriting) in Rocq
+  - check for instance the nice [Nijn/Onjin](https://deividrvale.github.io/nijn-coq-script-generation/onijn/index.html) project,
+  developed in collaboration with [Niels van der Weide](https://nmvdw.github.io) and [Cynthia Kop](https://www.cs.ru.nl/~cynthiakop/index_en.html)
