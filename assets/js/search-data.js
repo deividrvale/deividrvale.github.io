@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-rocq",
-          title: "Rocq",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/rocq/";
-          },
         },{id: "nav-service",
           title: "service",
           description: "",
@@ -30,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/service/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-rocq-short-course",
+          title: "Rocq Short Course",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/rocq/";
           },
         },{id: "post-a-post-with-image-galleries",
       
